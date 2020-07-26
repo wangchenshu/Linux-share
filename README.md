@@ -219,7 +219,8 @@ Arch配置和安裝起來超容易。
 
 ## 教學及安裝參考
 - [Arch Installation guide (正體中文)](https://wiki.archlinux.org/index.php/Installation_guide_(%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87))
-- [Debian管理者手冊](https://debian-handbook.info/browse/zh-TW/stable/)
+- [Debian 管理者手冊](https://debian-handbook.info/browse/zh-TW/stable/)
+- [Gentoo 安裝手冊](https://wiki.gentoo.org/wiki/Handbook:AMD64)
 - [鳥哥的 Linux 私房菜](http://linux.vbird.org/)
 
 新手友好請選擇 Ubuntu 或 Linux Mint
