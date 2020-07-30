@@ -217,6 +217,10 @@ Arch旨在從開發者的角度而不是從用戶的角度做到力求簡單。
 Arch配置和安裝起來超容易。
 它真是一款面向高手的發行版，讓你可以了解Linux系統的每一個細枝末節。
 
+##### Linux 的用戶?
+![](https://1.bp.blogspot.com/-pSXP4xXcki0/Vd3knqosDyI/AAAAAAAA6Cs/VDEOwLJOjTs/s1600/Onwzj.jpg)
+
+
 ## 教學及安裝參考
 - [Arch Installation guide (正體中文)](https://wiki.archlinux.org/index.php/Installation_guide_(%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87))
 - [Debian 管理者手冊](https://debian-handbook.info/browse/zh-TW/stable/)
