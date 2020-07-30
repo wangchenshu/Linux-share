@@ -1,4 +1,4 @@
-# 一個 Nobody 名叫 Walter 的 Linux 分享(未完待續)
+# 一個 Nobody 的 Linux 分享(未完待續)
 
 ## 關於我
 一個對 Linux 喜愛的 Nobody
@@ -222,15 +222,18 @@ Arch配置和安裝起來超容易。
 
 
 ## 教學及安裝參考
+- [Ubuntu 参考手册](https://wiki.ubuntu.org.cn/UbuntuManual)
 - [Arch Installation guide (正體中文)](https://wiki.archlinux.org/index.php/Installation_guide_(%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87))
 - [Debian 管理者手冊](https://debian-handbook.info/browse/zh-TW/stable/)
-- [Gentoo 安裝手冊](https://wiki.gentoo.org/wiki/Handbook:AMD64)
 - [鳥哥的 Linux 私房菜](http://linux.vbird.org/)
+- [Gentoo 安裝手冊](https://wiki.gentoo.org/wiki/Handbook:AMD64)
 
 新手友好請選擇 Ubuntu 或 Linux Mint
 
 個人推薦 Debian 或 Arch Linux ^_^
 
-選一個出發吧，Go!
+想成為神人，就選 Gentoo 吧 XD
+
+那我們就選一個出發吧，Go!
 
 未完待續...
